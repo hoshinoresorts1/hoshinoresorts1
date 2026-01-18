@@ -26,8 +26,7 @@
 <br/>
 
 ### Utility 🖋️
-[![My Languages](https://skillicons.dev/icons?i=apple,clion,discord,flask,pytorch)](https://skillicons.dev) <br/>
-[![My Skills](https://skillicons.dev/icons?i=kali,linux,bash,terminal)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=apple,clion,discord,flask,pytorch,kali,linux,bash,terminal)](https://skillicons.dev) <br/>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
