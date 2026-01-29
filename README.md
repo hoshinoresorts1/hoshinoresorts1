@@ -36,7 +36,11 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{hoshinoresorts1}?pet-id=1" width="1000" height="200"/>
 </a>
+<br/>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{username}"/>
+</a>
 ---
 
 ## 🐍 My Contribution Snake
