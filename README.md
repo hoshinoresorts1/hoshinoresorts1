@@ -30,10 +30,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshinoresorts1&hide_progress=true)
-
----
-
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{hoshinoresorts1}"/>
 </a>
